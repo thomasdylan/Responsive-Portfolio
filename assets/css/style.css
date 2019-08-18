@@ -187,6 +187,13 @@ a {
         margin-bottom: 25%;
     }
 
+    .mainContent p {
+        size: 18px;
+        line-height: 24px;
+        margin: 2%;
+        padding: 2%;
+    }
+
     .topContent {
         width: 100%;
         margin: 1%;
