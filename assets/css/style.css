@@ -122,7 +122,7 @@ a {
     float: left;
 }
 
- /* Submit button on contact form */
+/* Submit button on contact form */
 
 #submitButton {
     background: #4aaaa5;
@@ -147,4 +147,53 @@ a {
     color: white;
     padding-left: 20px;
     padding-right: 20px;
-  }
+}
+
+
+@media screen and (max-width: 980px) {}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 640px) {
+    .name {
+        background: #4aaaa5;
+        overflow: hidden;
+        width: 100%;
+        margin: 0;
+        padding: 0 1%;
+    }
+
+    .mainHeader {
+        background: #ffffff;
+        border-bottom: 2px solid #cccccc;
+        width: 100%;
+        margin: 0 0 2% 0;
+        text-align: center;
+        overflow: auto;
+    }
+
+    .links {
+        margin: 0;
+        padding: 0;
+        margin-top: 1%;
+        display: inline-block;
+        width: 100%;
+        color: #777777;
+        text-align: center;
+    }
+
+    .mainContent {
+        margin: 3%;
+    }
+
+    .topContent {
+        width: 100%;
+        margin: 0;
+        text-align: center;
+    }
+
+    .topContent h2 {
+        margin: 0;
+    }
+    
+}
