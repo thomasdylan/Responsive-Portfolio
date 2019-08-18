@@ -152,6 +152,7 @@ a {
 
 @media screen and (max-width: 980px) {}
 
+/* Medium screens **Completed** */
 @media screen and (max-width: 768px) {
 
     img {
@@ -159,7 +160,7 @@ a {
         margin-left: auto;
         margin-right: auto;
     }
-    
+
     .name {
         background: #4aaaa5;
         overflow: hidden;
