@@ -151,6 +151,7 @@ a {
 
 /* Large screens **Completed** */
 @media screen and (max-width: 980px) {
+
     img {
         display: block;
         margin-left: auto;
@@ -182,7 +183,7 @@ a {
     }
 
     .imageFloat {
-        width: 40%;
+        width: 50%;
     }
 
     .form {
@@ -203,6 +204,7 @@ a {
         margin-bottom: 2%;
     }
 }
+
 
 /* Medium screens **Completed** */
 @media screen and (max-width: 768px) {
@@ -232,6 +234,7 @@ a {
     }
 
     .mainContent {
+        max-width: 100%;
         margin: 3%;
         margin-bottom: 25%;
     }
@@ -285,6 +288,7 @@ a {
     }
 
     .mainContent {
+        max-width: 100%;
         margin: 3%;
         margin-bottom: 25%;
     }
