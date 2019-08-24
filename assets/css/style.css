@@ -66,7 +66,7 @@ a {
 
 .links {
     float: right;
-    margin-top: 45px;
+    margin-top: 2%;
     margin-right: 18%;
     color: #777777;
     text-align: center;
@@ -205,7 +205,6 @@ a {
     }
 }
 
-
 /* Medium screens **Completed** */
 @media screen and (max-width: 768px) {
 
@@ -286,6 +285,7 @@ a {
         color: #777777;
         text-align: center;
     }
+
 
     .mainContent {
         max-width: 100%;
